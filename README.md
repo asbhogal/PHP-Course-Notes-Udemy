@@ -1,6 +1,6 @@
 <h1>PHP Course Notes</h1>
 
-A log of notes and practice tests as part of the PHP module of The Complete Web Developer Course 2.0
+A log of notes and practice as part of the PHP module of The Complete Web Developer Course 2.0
 
 <strong>Stacks Used:</strong><br>
 
